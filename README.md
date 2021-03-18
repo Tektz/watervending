@@ -12,7 +12,8 @@ A system for selling water in public with no supervision.
 ### Sensors
 
 - Ultrasonic Sensor
-- Coin acceptor
+- Coin acceptor Mult coin, 12v dc operating power
+- Water Flow Sensor
 
 
 ### Actuators
